@@ -9,9 +9,7 @@ Whether you're an aspiring researcher, ML engineer, or just curious about the AI
 
 ### ✅ 2017
 - [x] Attention is All You Need
-- [x] Sparsely-Gated Mixture-of-Experts
-- [x] PPO: Proximal Policy Optimization
-- [x] Deep RL from Human Preferences
+
 
 
 
